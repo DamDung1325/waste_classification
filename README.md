@@ -1,7 +1,6 @@
 # Waste Classifier by Pictures 
-This project focuses on building a deep learning model to classify waste images into different categories based on visual features. The goal is to support waste sorting and raise awareness of environmental protection through computer vision techniques.
-The model is trained using a convolutional neural network (CNN) and can predict the waste type directly from an input image. This repository contains the training code, evaluation notebook, and the trained model weights for inference.
-The project is implemented using Python and TensorFlow/Keras, and is suitable for educational and experimental purposes.
+Dự án này tập trung vào việc xây dựng một mô hình học sâu để phân loại rác thải từ hình ảnh thành các nhóm khác nhau dựa trên đặc trưng thị giác. Mục tiêu của dự án là hỗ trợ việc phân loại rác và nâng cao nhận thức về bảo vệ môi trường thông qua các kỹ thuật thị giác máy tính.
+Dự án được triển khai bằng Python và TensorFlow/Keras, phù hợp cho mục đích học tập và nghiên cứu thử nghiệm.
 # Dataset:
 the data used for this is kind of large, you can take a look by going into this URL: https://drive.google.com/drive/folders/1xL65-yZRKY7wDhLPq9fzD3UIh6t5Gvqn?usp=drive_link.
 # Feature:
