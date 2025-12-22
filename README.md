@@ -13,11 +13,11 @@ the data used for this is kind of large, you can take a look by going into this 
 Dự án được triển khai và chạy trực tiếp trên Google Colab, không yêu cầu cài đặt môi trường cục bộ.
 # Usage:
 Để thử nghiệm mô hình trên một hình ảnh tự chụp, bạn cần thực hiện các bước sau:
-Upload hình ảnh lên Colab: Bạn có thể kéo thả hình ảnh vào phần tệp của Colab hoặc mount Google Drive và đặt hình ảnh vào đó.
-Đường dẫn hình ảnh: Đặt đường dẫn chính xác đến hình ảnh của bạn.
-Tiền xử lý hình ảnh: Mô hình của bạn mong đợi đầu vào có kích thước 224x224 pixel và được chuẩn hóa theo cách của EfficientNet. Chúng ta cần resize và tiền xử lý hình ảnh cho phù hợp.
+- Upload hình ảnh lên Colab: Bạn có thể kéo thả hình ảnh vào phần tệp của Colab hoặc mount Google Drive và đặt hình ảnh vào đó.
+- Đường dẫn hình ảnh: Đặt đường dẫn chính xác đến hình ảnh của bạn.
+- Tiền xử lý hình ảnh: Mô hình của bạn mong đợi đầu vào có kích thước 224x224 pixel và được chuẩn hóa theo cách của EfficientNet. Chúng ta cần resize và tiền xử lý hình ảnh cho phù hợp.
 Dự đoán: Sử dụng mô hình đã tải để đưa ra dự đoán.
 Hiển thị kết quả: Hiển thị hình ảnh và kết quả dự đoán.
 # Result:
-Test Accuracy: 96.18%
+kết quả của mô hình sau khi train với dataset: Accuracy: 96.18%
 
