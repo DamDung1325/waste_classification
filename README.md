@@ -2,7 +2,7 @@
 Dự án này tập trung vào việc xây dựng một mô hình học sâu để phân loại rác thải từ hình ảnh thành các nhóm khác nhau dựa trên đặc trưng thị giác. Mục tiêu của dự án là hỗ trợ việc phân loại rác và nâng cao nhận thức về bảo vệ môi trường thông qua các kỹ thuật thị giác máy tính.
 Dự án được triển khai bằng Python và TensorFlow/Keras, phù hợp cho mục đích học tập và nghiên cứu thử nghiệm.
 # Dataset:
-the data used for this is kind of large, you can take a look by going into this URL: https://drive.google.com/drive/folders/1xL65-yZRKY7wDhLPq9fzD3UIh6t5Gvqn?usp=drive_link.
+dữ liệu được sử dụng trong quá trình huấn luyện mô hình khá lớn nên bạn có thể tham khảo qua đường link sau: https://drive.google.com/drive/folders/1xL65-yZRKY7wDhLPq9fzD3UIh6t5Gvqn?usp=drive_link.
 # Feature:
 - Phân loại rác thải dựa trên hình ảnh đầu vào
 - Nhận diện nhiều loại rác khác nhau bằng mô hình học sâu
