@@ -16,8 +16,8 @@ Dự án được triển khai và chạy trực tiếp trên Google Colab, khô
 - Upload hình ảnh lên Colab: Bạn có thể kéo thả hình ảnh vào phần tệp của Colab hoặc mount Google Drive và đặt hình ảnh vào đó.
 - Đường dẫn hình ảnh: Đặt đường dẫn chính xác đến hình ảnh của bạn.
 - Tiền xử lý hình ảnh: Mô hình của bạn mong đợi đầu vào có kích thước 224x224 pixel và được chuẩn hóa theo cách của EfficientNet. Chúng ta cần resize và tiền xử lý hình ảnh cho phù hợp.
-Dự đoán: Sử dụng mô hình đã tải để đưa ra dự đoán.
-Hiển thị kết quả: Hiển thị hình ảnh và kết quả dự đoán.
+Dự đoán: Sử dụng mô hình đã tải để đưa ra dự đoán của mô hình.
+Hiển thị kết quả: Hiển thị hình ảnh và kết quả dự đoán của mô hình.
 # Result:
-kết quả của mô hình sau khi train với dataset: Accuracy: 96.18%
+Kết quả của mô hình sau khi train với dataset: Accuracy: 96.18%
 
